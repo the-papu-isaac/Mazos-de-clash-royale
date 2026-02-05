@@ -23,3 +23,16 @@ deck_2 = {
 }
 
 print(deck_2[2])
+
+deck_3 = {
+    1: "evo baby dragon",
+    2: "barril de esqueletos",
+    3: "rey esqueleto",
+    4: "minero",
+    5: "mega caballero",
+    6: "pandilla de duendes",
+    7: "duendes con lanza",
+    8: "zap",
+}
+
+print(deck_3[2])
