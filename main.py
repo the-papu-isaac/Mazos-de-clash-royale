@@ -10,3 +10,16 @@ deck_1 = {
 }
 
 print(deck_1[4])
+
+deck_2 = {
+    1: "rompemuros",
+    2: "fantasma real",
+    3: "larrys",
+    4: "espiritu de hielo",
+    5: "barril de duendes",
+    6: "torrer bomber",
+    7: "bola de fuego",
+    8: "tronco"
+}
+
+print(deck_2[2])
