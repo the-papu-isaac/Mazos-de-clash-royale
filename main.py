@@ -49,3 +49,14 @@ deck_4 = {
 }
 
 print(deck_4[3])
+
+deck_5 = {
+    1: "P.E.K.K.A.",
+    2: "horno",
+    3: "ariete de batalla",
+    4: "fantasma real",
+    5: "bandida",
+    6: "bola de fuego",
+    7: "zap",
+    8: "mago electrico",
+}
