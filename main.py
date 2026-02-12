@@ -60,3 +60,5 @@ deck_5 = {
     7: "zap",
     8: "mago electrico",
 }
+
+print(deck_5[1])
