@@ -52,13 +52,13 @@ print(deck_4[3])
 
 deck_5 = {
     1: "P.E.K.K.A.",
-    2: "horno",
-    3: "ariete de batalla",
-    4: "fantasma real",
-    5: "bandida",
-    6: "bola de fuego",
-    7: "zap",
-    8: "mago electrico",
+    2: "Horno",
+    3: "Ariete de batalla",
+    4: "Fantasma real",
+    5: "Bandida",
+    6: "Bola de fuego",
+    7: "Zap",
+    8: "Mago electrico",
 }
 
 print(deck_5[1])
