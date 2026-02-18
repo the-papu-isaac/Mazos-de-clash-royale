@@ -38,14 +38,14 @@ deck_3 = {
 print(deck_3[2])
 
 deck_4 = {
-    1: "barril de esqueletos evo",
-    2: "ejercito de esqueletos",
-    3: "rey esqueleto",
-    4: "arbusto sospechoso",
-    5: "duende lanzadardos",
-    6: "duendes heroes",
-    7: "enredadera",
-    8: "bruja madre",
+    1: "Barril de esqueletos evo",
+    2: "Ejercito de esqueletos",
+    3: "Rey esqueleto",
+    4: "Arbusto sospechoso",
+    5: "Duende lanzadardos",
+    6: "Duendes heroes",
+    7: "Enredadera",
+    8: "Bruja madre",
 }
 
 print(deck_4[3])
