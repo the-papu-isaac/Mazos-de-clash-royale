@@ -48,7 +48,7 @@ deck_4 = {
     8: "Bruja madre",
 }
 
-print(deck_4[3])
+print(deck_4[6])
 
 deck_5 = {
     1: "P.E.K.K.A.",
