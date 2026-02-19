@@ -1,12 +1,12 @@
 deck_1 = {
-    1: {"Nombre": "bruja", "Costo": 5, "Evolucion": False, "Heroe": False},
-    2: "bola de fuego",
-    3: "ariete de batalla", 
-    4: "caballero",
-    5: "bola de nieve",
-    6: "lapida",
-    7: "guardias",
-    8: "duendes con lanza",
+    1: {"Nombre": "bruja", "Costo": 5, "Evolucion": True, "Heroe": False},
+    2: {"Nombre": "bola de fuego", "Costo": 4, "Evolucion": False, "Heroe": False},
+    3: {"Nombre": "ariete de batalla", "Costo": 4, "Evolucion": True, "Heroe": False}, 
+    4: {"Nombre": "caballero", "Costo": 3, "Evolucion": True, "Heroe": True},
+    5: {"Nombre": "bola de nieve", "Costo": 2, "Evolucion": True, "Heroe": False},
+    6: {"Nombre": "lapida", "Costo": 3, "Evolucion": False, "Heroe": False},
+    7: {"Nombre": "guardias", "Costo": 3, "Evolucion": False, "Heroe": False},
+    8: {"Nombre": "duendes con lanza", "Costo": 2, "Evolucion": False, "Heroe": False},
 }
 
 print(deck_1[4])
