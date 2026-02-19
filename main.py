@@ -62,3 +62,16 @@ deck_5 = {
 }
 
 print(deck_5[1])
+
+deck_6 = {
+    1: "hog rider",
+    2: "mosquetera",
+    3: "esqueletos",
+    4: "espiritu de hielo",
+    5: "tronco",
+    6: "cañon",
+    7: "sneaky golem",
+    8: "bola de fuego",
+}
+
+print(deck_6[4])
