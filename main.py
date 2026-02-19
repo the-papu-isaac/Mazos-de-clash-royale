@@ -1,5 +1,5 @@
 deck_1 = {
-    1: "bruja",
+    1: {"Nombre": "bruja", "Costo": 5, "Evolucion": False, "Heroe": False},
     2: "bola de fuego",
     3: "ariete de batalla", 
     4: "caballero",
