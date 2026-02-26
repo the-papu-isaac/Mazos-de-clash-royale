@@ -12,14 +12,14 @@ deck_1 = {
 print(deck_1[4])
 
 deck_2 = {
-    1: "rompemuros",
-    2: "fantasma real",
-    3: "larrys",
-    4: "espiritu de hielo",
-    5: "barril de duendes",
-    6: "torrer bomber",
-    7: "bola de fuego",
-    8: "tronco"
+    1: {"Nombre": "rompemuros", "Costo": 2, "Evolucion": True, "Heroe": False},
+    2: {"Nombre": "fantasma real", "Costo": 3, "Evolucion": True, "Heroe": False},
+    3: {"Nombre": "larry", "Costo": 1, "Evolucion": True, "Heroe": False},
+    4: {"Nombre": "espíritu de hielo", "Costo": 1, "Evolucion": True, "Heroe": False},
+    5: {"Nombre": "barril de duendes", "Costo": 3, "Evolucion": True, "Heroe": False},
+    6: {"Nombre": "torre bomber", "Costo": 4, "Evolucion": False, "Heroe": False},
+    7: {"Nombre": "bola de fuego", "Costo": 4, "Evolucion": False, "Heroe": False},
+    8: {"Nombre": "tronco", "Costo": 2, "Evolucion": False, "Heroe": False},
 }
 
 print(deck_2[2])
