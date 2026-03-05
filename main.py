@@ -25,14 +25,14 @@ deck_2 = {
 print(deck_2[2])
 
 deck_3 = {
-    1: "evo baby dragon",
-    2: "barril de esqueletos",
-    3: "rey esqueleto",
-    4: "minero",
-    5: "mega caballero",
-    6: "pandilla de duendes",
-    7: "duendes con lanza",
-    8: "zap",
+    1: {"Nombre": "Baby dragon", "Costo": 4, "Evolucion": True, "Heroe": False},
+    2: {"Nombre": "Barril de esqueletos", "Costo": 3, "Evolucion": True, "Heroe": False},
+    3: {"Nombre": "Rey esqueletos", "Costo": 4, "Evolucion": False, "Heroe": False},
+    4: {"Nombre": "Minero", "Costo": 3, "Evolucion": False, "Heroe": False},
+    5: {"Nombre": "Mega knight", "Costo": 7, "Evolucion": True, "Heroe": False},
+    6: {"Nombre": "pandilla de duendes", "Costo": 3, "Evolucion": False, "Heroe": False},
+    7: {"Nombre": "Duendes con lanza", "Costo": 2, "Evolucion": False, "Heroe": False},
+    8: {"Nombre": "Zap", "Costo": 2, "Evolucion": True, "Heroe": False},
 }
 
 print(deck_3[2])
