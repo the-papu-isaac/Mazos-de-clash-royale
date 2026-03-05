@@ -38,40 +38,40 @@ deck_3 = {
 print(deck_3[2])
 
 deck_4 = {
-    1: "Barril de esqueletos evo",
-    2: "Ejercito de esqueletos",
-    3: "Rey esqueleto",
-    4: "Arbusto sospechoso",
-    5: "Duende lanzadardos",
-    6: "Duendes heroes",
-    7: "Enredadera",
-    8: "Bruja madre",
+    1: {"Nombre": "Barril de esqueletos", "Costo": 3, "Evolucion": True, "Heroe": False},
+    2: {"Nombre": "Ejercito de esqueletos", "Costo": 3, "Evolucion": True, "Heroe": False},
+    3: {"Nombre": "Rey esqueleto", "Costo": 2, "Evolucion": False, "Heroe": False},
+    4: {"Nombre": "Arbusto sospechoso", "Costo": 2, "Evolucion": False, "Heroe": False},
+    5: {"Nombre": "Duende lanzadardos", "Costo": 3, "Evolucion": True, "Heroe": False},
+    6: {"Nombre": "Duendes", "Costo": 2, "Evolucion": False, "Heroe": True},
+    7: {"Nombre": "Enredadera", "Costo": 3, "Evolucion": False, "Heroe": False},
+    8: {"Nombre": "Bruja madre", "Costo": 4, "Evolucion": False, "Heroe": False},
 }
 
 print(deck_4[6])
 
 deck_5 = {
-    1: "P.E.K.K.A.",
-    2: "Horno",
-    3: "Ariete de batalla",
-    4: "Fantasma real",
-    5: "Bandida",
-    6: "Bola de fuego",
-    7: "Zap",
-    8: "Mago electrico",
+    1: {"Nombre": "P.E.K.K.A.", "Costo": 7, "Evolucion": True, "Heroe": False},
+    2: {"Nombre": "Arquero magico", "Costo": 4, "Evolucion": False, "Heroe": True},
+    3: {"Nombre": "Ariete de batalla", "Costo": 4, "Evolucion": True, "Heroe": False},
+    4: {"Nombre": "Fantasma real", "Costo": 3, "Evolucion": True, "Heroe": False},
+    5: {"Nombre": "Bandida", "Costo": 3, "Evolucion": False, "Heroe": False},
+    6: {"Nombre": "Zap", "Costo": 2, "Evolucion": True, "Heroe": False},
+    7: {"Nombre": "Bola de fuego", "Costo": 4, "Evolucion": False, "Heroe": False},
+    8: {"Nombre": "Mago electrico", "Costo": 4, "Evolucion": False, "Heroe": False},
 }
 
 print(deck_5[1])
 
 deck_6 = {
-    1: "hog rider",
-    2: "mosquetera",
-    3: "esqueletos",
-    4: "espiritu de hielo",
-    5: "tronco",
-    6: "cañon",
-    7: "sneaky golem",
-    8: "bola de fuego",
+    1: {"Nombre": "Hog rider", "Costo": 4, "Evolucion": False, "Heroe": False},
+    2: {"Nombre": "Mosquetera", "Costo": 4, "Evolucion": True, "Heroe": True},
+    3: {"Nombre": "Esqueletos", "Costo": 1, "Evolucion": True, "Heroe": False},
+    4: {"Nombre": "Espiritu de hielo", "Costo": 1, "Evolucion": True, "Heroe": False},
+    5: {"Nombre": "LOOOOOOOOOOOOOG", "Costo": 2, "Evolucion": False, "Heroe": False},
+    6: {"Nombre": "Cañon", "Costo": 2, "Evolucion": True, "Heroe": False},
+    7: {"Nombre": "Sneaky Golem", "Costo": 8, "Evolucion": False, "Heroe": False},
+    8: {"Nombre": "Bola de fuego", "Costo": 4, "Evolucion": False, "Heroe": False},
 }
 
 print(deck_6[4])
