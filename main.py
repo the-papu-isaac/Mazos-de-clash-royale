@@ -71,7 +71,7 @@ deck_6 = {
     4: {"Nombre": "Espiritu de hielo", "Costo": 1, "Evolucion": True, "Heroe": False},
     5: {"Nombre": "LOOOOOOOOOOOOOG", "Costo": 2, "Evolucion": False, "Heroe": False},
     6: {"Nombre": "Cañon", "Costo": 3, "Evolucion": True, "Heroe": False},
-    7: {"Nombre": "Sneaky Golem", "Costo": 8, "Evolucion": False, "Heroe": False},
+    7: {"Win Condition": "Sneaky Golem", "Costo": 8, "Evolucion": False, "Heroe": False},
     8: {"Hechizo Grande": "Bola de fuego", "Costo": 4, "Evolucion": False, "Heroe": False},
 }
 
